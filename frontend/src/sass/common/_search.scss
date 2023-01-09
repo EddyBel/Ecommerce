@@ -1,0 +1,14 @@
+@import "../utils/mixin";
+
+.search {
+  @include flex(row, space-between, center, nowrap, 5px);
+  background: #e4e4e4;
+  border-radius: 30px;
+  padding: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  .search__input {
+    padding: 3px;
+  }
+}

@@ -1,0 +1,63 @@
+@import "../utils/mixin";
+
+$size-button-rounded: 25px;
+
+.button__rounded {
+  @include flex(row, center, center, nowrap, 5px);
+  transition: all 300ms;
+  min-width: $size-button-rounded;
+  height: $size-button-rounded;
+  border-radius: 50%;
+  padding: 7px;
+  position: relative;
+  cursor: pointer;
+
+  .heart_svg {
+    transition: all 200ms;
+  }
+
+  .button_rounded_alert {
+    @include flex(row, center, center);
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    transform: translateX(5px) translateY(-5px);
+  }
+
+  &.rose {
+    background: #ffd6c5;
+
+    .button_rounded_alert {
+      background: #cd5c5c;
+      color: #ffd6c5;
+    }
+
+    &.text {
+      width: 100% !important;
+      border-radius: 20px;
+      height: auto;
+      color: #cd5c5c;
+    }
+  }
+
+  &.green {
+    background: #abebc6;
+
+    .button_rounded_alert {
+      background: #145a32;
+      color: #abebc6;
+    }
+  }
+
+  &:hover {
+    .heart_svg {
+      transform: scale(1.2);
+    }
+
+    transform: translateY(-5px);
+  }
+}

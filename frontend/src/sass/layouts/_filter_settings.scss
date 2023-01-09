@@ -1,0 +1,12 @@
+@import "../utils/mixin";
+
+.filter__settings {
+  @include flex(row, space-between, center, nowrap);
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  width: 100%;
+  .filter__settings__menus {
+    @include flex(row, flex-start, center, nowrap, 10px);
+  }
+}

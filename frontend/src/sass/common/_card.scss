@@ -1,0 +1,63 @@
+@import "../utils/mixin";
+
+.card {
+  // max-width: 300px;
+  width: 100%;
+  overflow: hidden;
+  background: #f2f4f4;
+  border-radius: 12px;
+  padding-bottom: 5px;
+
+  .card__product__img {
+    // max-width: 300px;
+    width: 100%;
+    min-height: 300px;
+    max-height: 300px;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .card__product__container__text {
+    padding: 10px;
+
+    .card__product__title__container {
+      @include flex(row, space-between, center, nowrap);
+      margin-bottom: 10px;
+
+      .card__product__name {
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .card__product__container__price {
+        @include flex(row, flex-start, flex-start, nowrap, 1px);
+        font-weight: bold;
+        font-size: 20px;
+
+        // .card__product__money__key {
+        //   font-size: 13px;
+        //   // transform: translateY(10px);
+        // }
+
+        .card__product__money__cents {
+          font-size: 12px;
+        }
+      }
+    }
+
+    .card__product__description {
+      font-size: 13px;
+      color: rgba(0, 0, 0, 0.658);
+    }
+  }
+
+  .card__product__level__of__preference {
+    @include flex(row, flex-start, center, nowrap, 4px);
+    padding: 15px;
+
+    .card__product__start {
+      width: 10px;
+      height: 10px;
+    }
+  }
+}

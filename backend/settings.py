@@ -1,0 +1,3 @@
+# SERVER CONFIG
+PORT = 3000
+DEBUG = True

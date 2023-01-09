@@ -1,0 +1,424 @@
+{
+  "products": [
+    {
+      "name": "estetoscopio",
+      "description": "Este es un estetoscopio de alta calidad, ideal para uso médico. Cuenta con una amplia gama de frecuencias y una excelente claridad de sonido.",
+      "price": "50 dólares",
+      "rating": "4.5",
+      "views": "254",
+      "date": "2022-05-01",
+      "brand": "NONE",
+      "link_imagen": "https://images.pexels.com/photos/6320167/pexels-photo-6320167.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "name": "estetoscopio",
+      "description": "Este estetoscopio es una opción asequible y de buena calidad para estudiantes de medicina y profesionales. Cuenta con una amplia gama de frecuencias y una claridad de sonido decente.",
+      "price": "30 dólares",
+      "rating": "3.5",
+      "views": "183",
+      "date": "2022-06-15",
+      "brand": "NONE",
+      "link_imagen": "https://media.istockphoto.com/id/1159847028/es/foto/estetoscopio-m%C3%A9dico-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=VqRWATLMFCefGa7EUPUZ5rz1M4GjEGYyo4PiZjPFLJc="
+    },
+    {
+      "name": "estetoscopio",
+      "description": "Este es un estetoscopio de alta gama con una amplia gama de frecuencias y una claridad de sonido excepcional. Ideal para uso médico en entornos de alta demanda.",
+      "price": "70 dólares",
+      "rating": "4.8",
+      "views": "321",
+      "date": "2022-07-01",
+      "brand": "NONE",
+      "link_imagen": "https://media.istockphoto.com/id/1376692359/es/foto/s%C3%ADmbolo-de-atenci%C3%B3n-m%C3%A9dica-del-estetoscopio.jpg?s=612x612&w=0&k=20&c=XZ1ZC0y5Fvm9OYmnqS4--ENBMOJMfpJKoRi4_YziIz0="
+    },
+    {
+      "name": "proteínas",
+      "description": "Este polvo de proteína es una mezcla de suero y caseína, ideal para la construcción y reparación de músculo. Contiene un alto porcentaje de proteína y es de fácil digestión.",
+      "price": "35 dólares",
+      "rating": "4.2",
+      "views": "127",
+      "date": "2022-05-01",
+      "brand": "Proteína Plus",
+      "link_imagen": "https://www.costco.com.mx/medias/sys_master/products/h31/h4d/16745543958558.jpg"
+    },
+    {
+      "name": "proteínas",
+      "description": "Este polvo de proteína es a base de huevo y es ideal para la construcción y reparación de músculo. Contiene un alto porcentaje de proteína y es de fácil digestión.",
+      "price": "30 dólares",
+      "rating": "4.0",
+      "views": "87",
+      "date": "2022-06-15",
+      "brand": "Proteína Cero",
+      "link_imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750303617155L.jpg"
+    },
+    {
+      "name": "proteínas",
+      "description": "Este polvo de proteína es a base de guisante y es ideal para veganos y vegetarianos. Contiene un alto porcentaje de proteína y es de fácil digestión.",
+      "price": "40 dólares",
+      "rating": "4.5",
+      "views": "167",
+      "date": "2022-07-01",
+      "brand": "Proteína Natural",
+      "link_imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750303617150L.jpg"
+    },
+    {
+      "name": "vitaminas",
+      "description": "Este es un complejo vitamínico completo que incluye todas las vitaminas esenciales y minerales necesarios para mantener una buena salud. Se presenta en forma de cápsulas fáciles de tragar.",
+      "price": "25 dólares",
+      "rating": "4.1",
+      "views": "217",
+      "date": "2022-05-01",
+      "brand": "Vitamix",
+      "link_imagen": "https://www.fahorro.com/media/amasty/amoptmobile/catalog/product/cache/3fba745dcec88e97bfe808bedc471260/7/5/7503023641494_jpg.webp"
+    },
+    {
+      "name": "vitaminas",
+      "description": "Este es un complejo vitamínico especialmente formulado para mujeres embarazadas. Incluye todas las vitaminas y minerales esenciales necesarios para el desarrollo adecuado del bebé y la salud de la madre.",
+      "price": "30 dólares",
+      "rating": "4.5",
+      "views": "154",
+      "date": "2022-06-15",
+      "brand": "Materna",
+      "link_imagen": "https://cdn.shopify.com/s/files/1/2266/9771/products/243-351.png?v=1587149897"
+    },
+    {
+      "name": "vitaminas",
+      "description": "Este es un complejo vitamínico especialmente formulado para hombres. Incluye todas las vitaminas y minerales esenciales necesarios para mantener la salud y el bienestar en general.",
+      "price": "28 dólares",
+      "rating": "4.0",
+      "views": "278",
+      "date": "2022-07-01",
+      "brand": "Vitaman",
+      "link_imagen": "https://www.sams.com.mx/images/product-images/img_small/980024999s.jpg"
+    },
+    {
+      "name": "báscula",
+      "description": "Esta es una báscula digital de alta precisión, capaz de medir el peso con una precisión de hasta 0.1 libras. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "40 dólares",
+      "rating": "4.3",
+      "views": "312",
+      "date": "2022-05-01",
+      "brand": "BasculaPro",
+      "link_imagen": "https://www.costco.com.mx/medias/sys_master/products/h4e/hc6/79570497437726.webp"
+    },
+    {
+      "name": "báscula",
+      "description": "Esta es una báscula digital de bajo costo, capaz de medir el peso con una precisión de hasta 0.5 libras. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "20 dólares",
+      "rating": "3.5",
+      "views": "217",
+      "date": "2022-06-15",
+      "brand": "BasculaEcono",
+      "link_imagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:good/mg/gm/1p/images/product-images/img_large/00007379651421l.jpg"
+    },
+    {
+      "name": "báscula",
+      "description": "Esta es una báscula de baño de alta precisión, capaz de medir el peso con una precisión de hasta 0.1 libras. Cuenta con una pantalla LCD y es resistente al agua.",
+      "price": "45 dólares",
+      "rating": "4.7",
+      "views": "192",
+      "date": "2022-07-01",
+      "brand": "BasculaBaño",
+      "link_imagen": "https://www.nafarrate.com/image/catalog/productos/bascula-analizadora-de-composicion-corporal-negro-150-kg-presicion-0-1-kg-4-memorias.jpg"
+    },
+    {
+      "name": "arroz integral",
+      "description": "Este es un arroz integral de alta calidad, cultivado de manera sostenible y sin el uso de pesticidas. Es rico en nutrientes y tiene un sabor delicioso.",
+      "price": "10 dólares",
+      "rating": "4.5",
+      "views": "341",
+      "date": "2022-05-01",
+      "brand": "ArrozVerde",
+      "link_imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00002445609584L.jpg"
+    },
+    {
+      "name": "arroz integral",
+      "description": "Este es un arroz integral orgánico, cultivado sin el uso de pesticidas y con técnicas de cultivo sostenibles. Es rico en nutrientes y tiene un sabor suave y delicioso.",
+      "price": "12 dólares",
+      "rating": "4.7",
+      "views": "287",
+      "date": "2022-06-15",
+      "brand": "ArrozOrgánico",
+      "link_imagen": "https://www.tunatural.com/common/images/domain/tunatural/products/cereal_arroz_integral_ikg_6072.jpg"
+    },
+    {
+      "name": "arroz integral",
+      "description": "Este es un arroz integral de grano largo, cultivado de manera sostenible y sin el uso de pesticidas. Tiene un sabor suave y es rico en nutrientes.",
+      "price": "9 dólares",
+      "rating": "4.3",
+      "views": "249",
+      "date": "2022-07-01",
+      "brand": "ArrozLargo",
+      "link_imagen": "https://d2e63rjlg57kwc.cloudfront.net/products/388116.png"
+    },
+    {
+      "name": "plicómetro",
+      "description": "Este es un plicómetro digital de alta precisión, capaz de medir la grasa corporal con una precisión del 1%. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "30 dólares",
+      "rating": "4.2",
+      "views": "154",
+      "date": "2022-05-01",
+      "brand": "PlicoPro",
+      "link_imagen": "https://www.fleming-sa.com/wp-content/uploads/2020/12/calipero_manual.jpg"
+    },
+    {
+      "name": "plicómetro",
+      "description": "Este es un plicómetro manual de bajo costo, capaz de medir la grasa corporal con una precisión del 2%. Es fácil de usar y viene con una tabla de conversión para facilitar la lectura de los resultados.",
+      "price": "15 dólares",
+      "rating": "3.8",
+      "views": "112",
+      "date": "2022-06-15",
+      "brand": "PlicoEcono",
+      "link_imagen": "https://www.fleming-sa.com/wp-content/uploads/2020/12/calipero_manual.jpg"
+    },
+    {
+      "name": "plicómetro",
+      "description": "Este es un plicómetro digital de alta precisión, capaz de medir la grasa corporal con una precisión del 0.5%. Cuenta con una pantalla LCD y es resistente al agua.",
+      "price": "40 dólares",
+      "rating": "4.9",
+      "views": "203",
+      "date": "2022-07-01",
+      "brand": "PlicoBaño",
+      "link_imagen": "https://www.fleming-sa.com/wp-content/uploads/2020/12/calipero_manual.jpg"
+    },
+    {
+      "name": "mancuernas",
+      "description": "Estas son mancuernas de acero inoxidable de alta calidad, con un revestimiento suave y antideslizante. Son ideales para el entrenamiento de fuerza y la tonificación muscular.",
+      "price": "50 dólares",
+      "rating": "4.5",
+      "views": "301",
+      "date": "2022-05-01",
+      "brand": "MancuernaPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "mancuernas",
+      "description": "Estas son mancuernas de hierro fundido de buena calidad, ideales para el entrenamiento de fuerza y la tonificación muscular. Tienen un revestimiento suave y antideslizante.",
+      "price": "30 dólares",
+      "rating": "4.0",
+      "views": "217",
+      "date": "2022-06-15",
+      "brand": "MancuernaEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "mancuernas",
+      "description": "Estas son mancuernas de neopreno, ideales para el entrenamiento de fuerza y la tonificación muscular. Son ligeras y tienen un revestimiento suave y antideslizante.",
+      "price": "40 dólares",
+      "rating": "4.3",
+      "views": "192",
+      "date": "2022-07-01",
+      "brand": "MancuernaNeo",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "harina de avena",
+      "description": "Esta es una harina de avena de alta calidad, molido finamente para su uso en panes, galletas y otros productos horneados. Es rica en fibra y tiene un sabor delicioso.",
+      "price": "8 dólares",
+      "rating": "4.6",
+      "views": "289",
+      "date": "2022-05-01",
+      "brand": "HarinaAvenaPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "harina de avena",
+      "description": "Esta es una harina de avena orgánica, molido finamente para su uso en panes, galletas y otros productos horneados. Es rica en fibra y tiene un sabor suave y delicioso.",
+      "price": "10 dólares",
+      "rating": "4.8",
+      "views": "237",
+      "date": "2022-06-15",
+      "brand": "HarinaAvenaOrgánico",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "harina de avena",
+      "description": "Esta es una harina de avena de grano entero, molido finamente para su uso en panes, galletas y otros productos horneados. Es rica en fibra y tiene un sabor suave y delicioso.",
+      "price": "9 dólares",
+      "rating": "4.4",
+      "views": "199",
+      "date": "2022-07-01",
+      "brand": "HarinaAvenaGranoEntero",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "báscula gramera",
+      "description": "Esta es una báscula gramera digital de alta precisión, capaz de medir el peso con una precisión de hasta 0.1 gramos. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "40 dólares",
+      "rating": "4.3",
+      "views": "312",
+      "date": "2022-05-01",
+      "brand": "BasculaGrameraPro",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "báscula gramera",
+      "description": "Esta es una báscula gramera digital de bajo costo, capaz de medir el peso con una precisión de hasta 0.5 gramos. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "20 dólares",
+      "rating": "3.5",
+      "views": "217",
+      "date": "2022-06-15",
+      "brand": "BasculaGrameraEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "báscula gramera",
+      "description": "Esta es una báscula gramera de mesa de alta precisión, capaz de medir el peso con una precisión de hasta 0.1 gramos. Cuenta con una pantalla LCD y es fácil de usar.",
+      "price": "45 dólares",
+      "rating": "4.7",
+      "views": "192",
+      "date": "2022-07-01",
+      "brand": "BasculaGrameraMesa",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "fresas congeladas",
+      "description": "Estas son fresas congeladas de alta calidad, cultivadas de manera sostenible y sin el uso de pesticidas. Son ricas en vitamina C y tienen un sabor delicioso.",
+      "price": "10 dólares",
+      "rating": "4.5",
+      "views": "314",
+      "date": "2022-05-01",
+      "brand": "FresaCongeladaPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "fresas congeladas",
+      "description": "Estas son fresas congeladas orgánicas, cultivadas sin el uso de pesticidas y con técnicas de cultivo sostenibles. Son ricas en vitamina C y tienen un sabor suave y delicioso.",
+      "price": "12 dólares",
+      "rating": "4.7",
+      "views": "269",
+      "date": "2022-06-15",
+      "brand": "FresaCongeladaOrgánico",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "fresas congeladas",
+      "description": "Estas son fresas congeladas de alta calidad, cultivadas de manera sostenible y sin el uso de pesticidas. Son ricas en vitamina C y tienen un sabor delicioso.",
+      "price": "9 dólares",
+      "rating": "4.4",
+      "views": "236",
+      "date": "2022-07-01",
+      "brand": "FresaCongelada",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "tapones de comida",
+      "description": "Estos son tapones de comida de alta calidad, fabricados con materiales seguros para el uso con alimentos. Son resistentes y duraderos y tienen un sello a prueba de fugas.",
+      "price": "15 dólares",
+      "rating": "4.6",
+      "views": "317",
+      "date": "2022-05-01",
+      "brand": "TaponComidaPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "tapones de comida",
+      "description": "Estos son tapones de comida de bajo costo, fabricados con materiales seguros para el uso con alimentos. Son resistentes y tienen un sello a prueba de fugas.",
+      "price": "10 dólares",
+      "rating": "4.0",
+      "views": "273",
+      "date": "2022-06-15",
+      "brand": "TaponComidaEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "tapones de comida",
+      "description": "Estos son tapones de comida de alta calidad, fabricados con materiales seguros para el uso con alimentos. Son resistentes y duraderos y tienen un sello a prueba de fugas.",
+      "price": "12 dólares",
+      "rating": "4.3",
+      "views": "243",
+      "date": "2022-07-01",
+      "brand": "TaponComida",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "termos para agua y café",
+      "description": "Este es un termo de alta calidad, fabricado con acero inoxidable de doble pared y aislado térmico. Mantiene el agua fría durante 24 horas y el café caliente durante 12 horas.",
+      "price": "30 dólares",
+      "rating": "4.7",
+      "views": "299",
+      "date": "2022-05-01",
+      "brand": "TermoAguaCafePlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "termos para agua y café",
+      "description": "Este es un termo de bajo costo, fabricado con acero inoxidable de doble pared y aislado térmico. Mantiene el agua fría durante 12 horas y el café caliente durante 6 horas.",
+      "price": "20 dólares",
+      "rating": "4.1",
+      "views": "251",
+      "date": "2022-06-15",
+      "brand": "TermoAguaCafeEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "termos para agua y café",
+      "description": "Este es un termo de alta calidad, fabricado con acero inoxidable de doble pared y aislado térmico. Mantiene el agua fría durante 24 horas y el café caliente durante 12 horas.",
+      "price": "25 dólares",
+      "rating": "4.5",
+      "views": "216",
+      "date": "2022-07-01",
+      "brand": "TermoAguaCafe",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "creatina",
+      "description": "Esta es una creatina de alta calidad, fabricada con ingredientes puros y sin aditivos. Ayuda a mejorar el rendimiento físico y la fuerza muscular.",
+      "price": "20 dólares",
+      "rating": "4.6",
+      "views": "329",
+      "date": "2022-05-01",
+      "brand": "CreatinaPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "creatina",
+      "description": "Esta es una creatina de bajo costo, fabricada con ingredientes puros y sin aditivos. Ayuda a mejorar el rendimiento físico y la fuerza muscular.",
+      "price": "15 dólares",
+      "rating": "4.2",
+      "views": "281",
+      "date": "2022-06-15",
+      "brand": "CreatinaEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "creatina",
+      "description": "Esta es una creatina de alta calidad, fabricada con ingredientes puros y sin aditivos. Ayuda a mejorar el rendimiento físico y la fuerza muscular.",
+      "price": "18 dólares",
+      "rating": "4.5",
+      "views": "216",
+      "date": "2022-07-01",
+      "brand": "Creatina",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "cuerdas para saltar",
+      "description": "Esta es una cuerda para saltar de alta calidad, fabricada con materiales resistentes y duraderos. Cuenta con un mango ergonómico y una cuerda ajustable.",
+      "price": "25 dólares",
+      "rating": "4.7",
+      "views": "302",
+      "date": "2022-05-01",
+      "brand": "CuerdaSaltarPlus",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "cuerdas para saltar",
+      "description": "Esta es una cuerda para saltar de bajo costo, fabricada con materiales resistentes y duraderos. Cuenta con un mango ergonómico y una cuerda ajustable.",
+      "price": "15 dólares",
+      "rating": "4.1",
+      "views": "257",
+      "date": "2022-06-15",
+      "brand": "CuerdaSaltarEcono",
+      "link_imagen": "NONE"
+    },
+    {
+      "name": "cuerdas para saltar",
+      "description": "Esta es una cuerda para saltar de alta calidad, fabricada con materiales resistentes y duraderos. Cuenta con un mango ergonómico y una cuerda ajustable.",
+      "price": "20 dólares",
+      "rating": "4.5",
+      "views": "221",
+      "date": "2022-07-01",
+      "brand": "CuerdaSaltar",
+      "link_imagen": "NONE"
+    }
+  ]
+}
